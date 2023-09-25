@@ -1,0 +1,6 @@
+timestamp,label,location,video_file,seconds_into
+2023-06-01 07:00:01,hund,Tromsø,Video_20230601070000.mp4,1
+2023-06-01 07:08:32,katt,Tromsø,Video_20230601070000.mp4,512
+2023-06-01 07:17:03,bil,Tromsø,Video_20230601070000.mp4,1023
+2023-06-01 07:25:34,høne,Tromsø,Video_20230601070000.mp4,1534
+2023-06-01 07:34:05,fly,Tromsø,Video_20230601070000.mp4,2045
