@@ -50,6 +50,5 @@ Create a script, that can be run from the command line.
   * location
   * video_file
   * seconds_into
-* Language could be either Python or NodeJS
-* You can freely choose to use whichever library you want to make the job easier.
-* Feel free to ask if you have problems or questions.
+* Language is in Python
+* Libraries - pandas, dattime, os, re
